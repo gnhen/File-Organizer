@@ -27,21 +27,13 @@ A user-friendly Java application designed to organize files within a specified d
 
 ### Running the Application
 
-To run the application, open your command line or terminal and navigate to the directory where you downloaded the `.jar` file. Use the following command:
+To run the application, **simply double click the .jar file!** 
+
+Alternatively, you can open your command line or terminal and navigate to the directory where you downloaded the `.jar` file. Use the following command:
 
 ```bash
 java -jar FileOrganizer.jar
 ```
-
-### Example
-
-Simply execute:
-
-```bash
-java -jar FileOrganizer.jar
-```
-
-Upon launching, you will be presented with a graphical user interface.
 
 ## Using the Application
 
